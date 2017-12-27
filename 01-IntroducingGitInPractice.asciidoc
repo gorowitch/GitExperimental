@@ -4,15 +4,3 @@ CHAPTER 1:
  Hello, let's introduce git.
  
  * * * 
-
-CHAPTER 2:
-==========
-
- Now that we've got the basics let's try some lame jokes.
-
-2.1 Lame Git Jokes.
-----------------
-
-What is git its sub version ?a
-
- * * *
