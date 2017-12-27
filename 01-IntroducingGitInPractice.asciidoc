@@ -1,4 +1,14 @@
+CHAPTER 1:
+==========
+
+ * * * 
+
+CHAPTER 2:
+==========
+
 Lame Git Jokes.
 ----------------
 
-What is git its sub version ?
+What is git its sub version ?a
+
+ * * *
