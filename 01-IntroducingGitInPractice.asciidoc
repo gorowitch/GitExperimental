@@ -1,6 +1,3 @@
-Lame Git Jokes.
-----------------
+* Use git flow as branching strategy
 
-What is git its sub version ?
-
-  Well, that's a really lame one
+* Work on a branch and use squash to turn checkpoints to meaningful commits
